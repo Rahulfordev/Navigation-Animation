@@ -1,1 +1,1 @@
-# There is only JavaScript code.
+# There is only JavaScript code. Watch the HTML and CSS code video
